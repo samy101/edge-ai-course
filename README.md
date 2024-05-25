@@ -1,9 +1,5 @@
-# 11777 - Multimodal Machine Learning
+# CP 330: Edge AI course 
 
-Course webpage for CMU course 11-777, Multimodal Machine Learning
+Course webpage for the CP 330: Edgi AI couse at the Indian Institue of Science (IISc), Bengaluru, India
 
-Fall 2020: https://cmu-multicomp-lab.github.io/mmml-course/fall2020/
-
-Fall 2022: https://cmu-multicomp-lab.github.io/mmml-course/fall2022/
-
-Fall 2023: https://cmu-multicomp-lab.github.io/mmml-course/fall2023/
+Jan 2024: [https://samy101.github.io/edge-ai-course/2024](https://www.samy101.com/edge-ai-course/2024)/
